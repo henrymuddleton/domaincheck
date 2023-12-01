@@ -1,5 +1,5 @@
 {
-  "name": "domainchecker",
+  "name": "domaincheckerapi",
   "version": "1.0.0",
   "description": "API to check for domain availability",
   "main": "app.js",
